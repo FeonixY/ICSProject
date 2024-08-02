@@ -1,0 +1,4 @@
+repository "ICSProject@x-9a667700-e816-47b7-807d-f21d8425fd44@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
